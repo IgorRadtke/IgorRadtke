@@ -3,7 +3,7 @@
 - 🔭 Cursando Ciência da Computação na [UFFS](https://www.uffs.edu.br/).
 
 <div> 
-  <a href="https://www.instagram.com/igor.radtke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/igor.radtke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=11c6c7&labelColor=black"></a>
 </div>
 
 <div >
